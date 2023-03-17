@@ -1,17 +1,18 @@
-# foodappmodel
+# Snacks App
 
-A new Flutter project.
+A food delivery app for movie theater
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## UI Design
+credits: https://www.uxcrush.com/pizza-ordering-mobile-figma-template/
 
-A few resources to get you started if this is your first Flutter project:
+![mobile app design](screenshot/Design.webp "Title")
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Flutter design
+- version 3.7.7
+# Screenshot
+![](screenshot/Screennshot1.png "Title"),
+![](screenshot/ScreenShot2.png "Title"),
+![](screenshot/ScreenShot3.png "Title")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-t push
+

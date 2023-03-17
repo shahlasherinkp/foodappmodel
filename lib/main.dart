@@ -11,7 +11,7 @@ import 'package:foodappmodel/secondpage/delivery.dart';
 void main() {
   runApp(
     DevicePreview(
-      enabled: true,
+      enabled: false,
       tools: [
         ...DevicePreview.defaultTools,
         const MyApp(),
